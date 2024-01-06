@@ -1,4 +1,7 @@
 # Clocker
+A simple program that displays the time in 24h clock format (with seconds shown).
+
+Created using the Godot Game Engine
 
 v1.1.0.0
 
